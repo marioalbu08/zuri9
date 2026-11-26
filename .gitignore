@@ -1,0 +1,6 @@
+eval/data/
+clipuri/
+.analiza/
+__pycache__/
+*.pyc
+.pytest_cache/

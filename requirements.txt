@@ -1,0 +1,14 @@
+numpy>=1.26
+scipy>=1.11
+opencv-python>=4.9
+faster-whisper>=1.0
+imageio-ffmpeg>=0.5
+anthropic>=0.40
+
+# whisper pe placa video NVIDIA (opțional; fără ele merge pe procesor)
+# nvidia-cublas-cu12
+# nvidia-cudnn-cu12
+
+# doar pentru teste și setul de test
+pytest>=8
+yt-dlp
